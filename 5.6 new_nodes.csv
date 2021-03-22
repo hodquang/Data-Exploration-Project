@@ -1,0 +1,55 @@
+x,Character1,score1,Character2,score2
+age witch,age witch,-1,age witch,2
+Aragog,Aragog,-4,Aragog,-1
+Argus filch,Argus filch,-1,Argus filch,2
+Aunt petunia,Aunt petunia,2,Aunt petunia,0
+Colin creavley,Colin creavley,4,Colin creavley,1
+Dean thomas,Dean thomas,0,Dobby,-6
+Dobby,Dobby,2,Draco malfoy,1
+Draco malfoy,Draco malfoy,-10,Dudley,3
+Dudley,Dudley,-1,Dumbledore,-8
+Dumbledore,Dumbledore,17,Ernie,0
+Ernie,Ernie,-6,Everyone,-10
+Flint,Flint,2,Fawkes,2
+Fred,Fred,-1,Flint,4
+Fudge,Fudge,-2,Fred,1
+George,George,-1,Fudge,3
+George weasley,George weasley,0,George,2
+Gilderoy lockhart,Gilderoy lockhart,-17,Gilderoy lockhart,-4
+Ginny,Ginny,-3,Ginny,5
+Guard,Guard,0,Guard,-2
+Hagrid,Hagrid,-10,Hagrid,-2
+Hannah,Hannah,0,Hannah,-6
+Harry,Harry,-20,Hardy,-1
+Hermione,Hermione,-2,Harry,-46
+Justin fletchy,Justin fletchy,0,Hedwig,2
+Lucius malfoy,Lucius malfoy,-8,Hermione,-26
+Madam pomfrey,Madam pomfrey,-3,Hermione’s parent,0
+Mcgonagall,Mcgonagall,-4,Justin flectchy,1
+moan myrtle,moan myrtle,-14,Lucius malfoy,-1
+Mr. borgin,Mr. borgin,3,Madam pomfrey,-1
+Mr. mason,Mr. mason,-1,Mcgonagall,1
+Mr. weasley,Mr. weasley,-4,moan myrtle,2
+Mrs. weasley,Mrs. weasley,6,Mr. borgin,1
+Neville,Neville,-1,Mr. mason,-5
+Nick,Nick,-2,Mr. weasley,4
+Penelope clearwater,Penelope clearwater,0,Mrs. mason,0
+Percy weasley,Percy weasley,2,Mrs. weasley,0
+Professor sprout,Professor sprout,-3,Neville,0
+Ron,Ron,-33,Nick,0
+Seamus,Seamus,-1,Penelope,-1
+Short man,Short man,0,Percy weasley,-1
+Snape,Snape,-14,Professor sprout,-4
+Tom riddle,Tom riddle,-16,Ron,-52
+Uncle vernon,Uncle vernon,-2,Seamus,-1
+Wood,Wood,3,Snape,0
+Young hagrid,Young hagrid,-1,Spell,0
+Everyone,,,Tom riddle,3
+Spell,,,Uncle vernon,-1
+Hardy,,,Wood,-1
+Fawkes,,,Young hagrid,-5
+Hedwig,,,,
+Justin flectchy,,,,
+Hermione's parent,,,,
+Penelope,,,,
+Mrs. mason,,,,
